@@ -1,11 +1,11 @@
 .rule1{
-    background-color: pink;
+    background-color: rgb(255, 167, 167);
     font: verdana, sans-serif;
 
 }
 
 #rule2{
-    color: blue;
+    color:#0000ff;
     font-size: 36px;
     
 }
