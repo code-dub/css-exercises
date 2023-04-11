@@ -1,0 +1,21 @@
+.rule1{
+    background-color: pink;
+    font: verdana, sans-serif;
+
+}
+
+#rule2{
+    color: blue;
+    font-size: 36px;
+    
+}
+
+.rule1.rule3{
+    font-size: 24px;
+}
+
+#rule4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
