@@ -1,0 +1,14 @@
+.r,
+.t {
+    font-size: 28px;
+    font-family: helvetica, times, sans-serif;
+}
+
+.r {
+    background-color: black;
+    color: white;
+}
+
+.t {
+    background-color: yellow;
+}
